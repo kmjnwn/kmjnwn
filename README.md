@@ -1,4 +1,4 @@
-## Kim jungwoo's github 👋
+## 김정우의 깃허브
 
 #### 🌱 Korea Univ. CSE
   큰 사람이 되고 싶어요
